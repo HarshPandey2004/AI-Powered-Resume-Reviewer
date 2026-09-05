@@ -1,0 +1,5 @@
+target/
+uploads/
+gemini-secrets.properties
+mongo-secrets.properties
+.git/
